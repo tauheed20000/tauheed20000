@@ -1,3 +1,26 @@
+
+                                                             ###   Hi, I'm Tauheed
+							     
+I am BTECH Computer Science Final Year Student at NIET, As of now, I am focused on web development, cloud Computing and Data Science and exploring many fields such as DevOps etc.
+Student | Passionate Developer | Learner
+LinkedIn github Gmail dev
+gaurbprajapati
+
+🔭 I’m currently working on Python , Django , JavaScript , Reactjs , Expressjs ,DataStructure, Algorithms, Problem Solving.
+
+🌱 I’m currently learning Node.js , Devops.
+
+💬 Ask me about Web development , Django , Reactjs ,Python , Javascript , DataStructure & Algorithms, NoSQL , Problem Solving technique, SQL
+
+
+
+
+
+
+
+
+
+
 - 👋 Welcome to my GitHub profile! I'm Tauheed Khan, a final year MSc Data Science student passionate about uncovering insights from unseen data. With a keen interest in the realm of data science, I am constantly seeking opportunities to collaborate and contribute to projects in this domain.
 - 👀 Feel free to explore my GitHub repositories where I showcase my projects, experiments, and contributions to the data science community. From machine learning models to data visualization techniques, you'll find a diverse range of projects reflecting my dedication to harnessing the power of data.
 - 💞️ I’m interested to join any collaboration related to data science domain.
