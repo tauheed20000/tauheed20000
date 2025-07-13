@@ -1,5 +1,5 @@
 
-- 👋 Welcome to my GitHub profile! I'm Tauheed Khan, a Data Science student passionate about uncovering insights from unseen data. With a keen interest in the realm of data science, I am constantly seeking opportunities to collaborate and contribute to projects in this domain.
+- 👋 Welcome to my GitHub profile! My name is Tauheed, and I am a data analyst passionate about uncovering insights from unseen data. With a keen interest in the realm of data science, I am constantly seeking opportunities to collaborate and contribute to projects in this domain.
   
 - 👀 Feel free to explore my GitHub repositories where I showcase my projects, experiments, and contributions to the data science community. From machine learning models to data visualization techniques, you'll find a diverse range of projects reflecting my dedication to harnessing the power of data.
   
